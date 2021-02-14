@@ -1,1 +1,1 @@
-# double-ornothihg-game
+# double-or-nothing-game
